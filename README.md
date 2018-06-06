@@ -15,12 +15,15 @@ Redux is a predictable state container for JavaScript apps.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/redux-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/redux-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/redux-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/redux-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/redux/badges/version.svg)](https://anaconda.org/conda-forge/redux)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/redux/badges/downloads.svg)](https://anaconda.org/conda-forge/redux)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-redux-green.svg)](https://anaconda.org/conda-forge/redux) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/redux.svg)](https://anaconda.org/conda-forge/redux) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/redux.svg)](https://anaconda.org/conda-forge/redux) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/redux.svg)](https://anaconda.org/conda-forge/redux) |
 
 Installing redux
 ================
