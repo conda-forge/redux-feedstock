@@ -1,6 +1,6 @@
 {% set name = "redux" %}
-{% set version = "3.7.2" %}
-{% set sha256 = "80d272b2e492d55566da3987e1c5eea7fb6ba3154ab59721609c79182ab19d5c" %}
+{% set version = "4.0.3" %}
+{% set sha256 = "b7be55815bbb6cd19f815b0893c9e1e202b450aa6fa2e6376b3f6ea67bd1a9e0" %}
 
 package:
   name: {{ name|lower }}
