@@ -35,8 +35,3 @@ about:
     Redux is a predictable state container for JavaScript apps.
   doc_url: http://redux.js.org/
   dev_url: https://github.com/reactjs/redux
-  
-extra:
-  recipe-maintainers:
-    - cshaley
-    - sannykr
