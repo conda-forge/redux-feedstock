@@ -1,6 +1,6 @@
 {% set name = "redux" %}
-{% set version = "3.7.2" %}
-{% set sha256 = "80d272b2e492d55566da3987e1c5eea7fb6ba3154ab59721609c79182ab19d5c" %}
+{% set version = "4.1.2" %}
+{% set sha256 = "b299faed2a0ef9b9b724c44e5604cfcb14f16d21ef4e98c78f5e1600e775d856" %}
 
 package:
   name: {{ name|lower }}
@@ -18,19 +18,19 @@ build:
 requirements:
   build:
     - nodejs
-  
+
 test:
   commands:
     - npm list -g redux
   requires:
     - nodejs
-   
+
 about:
   home: https://github.com/reactjs/redux
   license: MIT
   license_family: MIT
   license_file: LICENSE.md
-  summary: 'Predictable state container for JavaScript apps'
+  summary: Predictable state container for JavaScript apps
   description: |
     Redux is a predictable state container for JavaScript apps.
   doc_url: http://redux.js.org/
